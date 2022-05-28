@@ -1,4 +1,4 @@
 # InteractiveDrawing
-Draw interactive shape in Qt
+Draw interactive shapes in Qt
 
 <img src="doc/screen-shot.png" width="1005">
