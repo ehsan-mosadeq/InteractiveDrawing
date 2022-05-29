@@ -1,5 +1,5 @@
 # InteractiveDrawing
-Draw interactive shapes in Qt
+A Qt Library for drawing interactive 2D shapes / graphical models.
 
 ## Main Elements:
 
